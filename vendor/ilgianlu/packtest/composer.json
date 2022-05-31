@@ -1,0 +1,15 @@
+{
+    "name": "ilgianlu/packtest",
+    "autoload": {
+        "psr-4": {
+            "Ilgianlu\\Packtest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gianluca Magni",
+            "email": "magni.c-@legrand-ext.com"
+        }
+    ],
+    "require": {}
+}

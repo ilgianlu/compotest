@@ -1,0 +1,41 @@
+{
+    "packages": [
+        {
+            "name": "ilgianlu/packtest",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ilgianlu/packtest.git",
+                "reference": "26c6cf78f689fcf1c7a74cc751c1dfb932fd0e93"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ilgianlu/packtest/zipball/26c6cf78f689fcf1c7a74cc751c1dfb932fd0e93",
+                "reference": "26c6cf78f689fcf1c7a74cc751c1dfb932fd0e93",
+                "shasum": ""
+            },
+            "time": "2022-05-31T08:04:45+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Ilgianlu\\Packtest\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Gianluca Magni",
+                    "email": "magni.c-@legrand-ext.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/ilgianlu/packtest/tree/1.0",
+                "issues": "https://github.com/ilgianlu/packtest/issues"
+            },
+            "install-path": "../ilgianlu/packtest"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

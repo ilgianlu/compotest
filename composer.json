@@ -11,5 +11,11 @@
             "email": "magni.c-@legrand-ext.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ilgianlu/packtest": "^1.0"
+    },
+    "repositories": [{
+        "type": "vcs",
+        "url": "git@github.com:ilgianlu/packtest.git"
+    }]
 }

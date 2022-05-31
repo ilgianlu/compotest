@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8fe6d633069ba7205484e11bc883d891",
+    "packages": [
+        {
+            "name": "ilgianlu/packtest",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ilgianlu/packtest.git",
+                "reference": "26c6cf78f689fcf1c7a74cc751c1dfb932fd0e93"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ilgianlu/packtest/zipball/26c6cf78f689fcf1c7a74cc751c1dfb932fd0e93",
+                "reference": "26c6cf78f689fcf1c7a74cc751c1dfb932fd0e93",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ilgianlu\\Packtest\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Gianluca Magni",
+                    "email": "magni.c-@legrand-ext.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/ilgianlu/packtest/tree/1.0",
+                "issues": "https://github.com/ilgianlu/packtest/issues"
+            },
+            "time": "2022-05-31T08:04:45+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
