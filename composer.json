@@ -1,0 +1,15 @@
+{
+    "name": "gianluca/compotest",
+    "autoload": {
+        "psr-4": {
+            "Gianluca\\Compotest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gianluca Magni",
+            "email": "magni.c-@legrand-ext.com"
+        }
+    ],
+    "require": {}
+}
