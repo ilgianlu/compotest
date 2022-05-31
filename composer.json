@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "ilgianlu/packtest": "^1.0"
+        "ilgianlu/packtest": "^1.0",
+        "monolog/monolog": "^2.6"
     },
     "repositories": [{
         "type": "vcs",
